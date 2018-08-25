@@ -5,7 +5,7 @@ title: "IEEE@IIT"
 description: "Illinois Tech's branch of the Institute of Electrical and Electronics Engineers (IEEE)."
 analytics: 
 baseurl: "" #important: start with /
-url: "https://ieee.iit.edu"
+#url: "https://ieee.iit.edu"
 
 # Build settings
 markdown: kramdown
