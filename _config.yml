@@ -49,23 +49,23 @@ email: ieee@iit.edu
     
 # Members information. Shown on About page.
 members:
-  - name: Burhan Ali
+  - name: Yuzhe Lim
     position: President
-    text: sali39@hawk.iit.edu
+    text: ylim@hawk.iit.edu
     img: team01.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
-  - name: Karthikeyan Kumar
+  - name: Aishwarya Dhone
     position: Vice President
-    text: kkumar12@hawk.iit.edu
+    text: adhone@hawk.iit.edu
     img: team02.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
-  - name: Siddharth Deshpande
+  - name: Nisarg Thakar
     position: Projects Chair
-    text: sdeshpande1@hawk.iit.edu
+    text: nthakar@hawk.iit.edu
     img: team04.jpg
     social:
       - title: envelope #use for email address
@@ -84,23 +84,23 @@ members:
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com 
-  - name: Sreejita Bhattacharya
+  - name: Deeksha Gattu
     position: Secretary Internal
-    text: sbhattacharya3@hawk.iit.edu
+    text: dgattu@hawk.iit.edu
     img: team04.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
-  - name: Yuzhe Lim
+  - name: Andreas Vassilakos
     position: Treasurer
-    text: ylim@hawk.iit.edu
+    text: avassilakos@hawk.iit.edu
     img: team04.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com  
-  - name: Atul Viswanath
+  - name: Yash Lokhande
     position: Publicity Chair
-    text: a1@hawk.iit.edu
+    text: ylokhande@hawk.iit.edu
     img: team04.jpg
     social:
       - title: envelope #use for email address
