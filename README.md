@@ -1,6 +1,6 @@
 # IEEE@IIT Website
 
-This is the website for the IEEE Illinois Institute of Technology student branch. The website is live at [ieeeiit.me](http://ieeeiit.me/).
+This is the website for the IEEE Illinois Institute of Technology student branch. The website is live at [ieee.iit.edu](http://ieee.iit.edu/).
 
 ## Tools used
 
