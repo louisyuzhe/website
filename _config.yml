@@ -70,9 +70,9 @@ members:
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
-  - name: Syed Hamdan Sher
+  - name: Sreejita Bhattacharya
     position: Webmaster
-    text: ssher1@hawk.iit.edu
+    text: sbhattacharya3@hawk.iit.edu
     img: team04.jpg
     social:
       - title: envelope #use for email address
