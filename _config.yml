@@ -5,7 +5,7 @@ title: "IEEE@IIT"
 description: "Illinois Tech's branch of the Institute of Electrical and Electronics Engineers (IEEE)."
 analytics: 
 baseurl: "" #important: start with /
-url: "http://ieeeiit.me"
+url: "http://ieee.iit.edu"
 
 # Build settings
 markdown: kramdown
@@ -49,58 +49,58 @@ email: ieee@iit.edu
     
 # Members information. Shown on About page.
 members:
-  - name: Burhan Ali
+  - name: Yuzhe Lim
     position: President
-    text: sali39@hawk.iit.edu
+    text: ylim@hawk.iit.edu
     img: team01.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
-  - name: Karthikeyan Kumar
+  - name: Aishwarya Dhone
     position: Vice President
-    text: kkumar12@hawk.iit.edu
+    text: adhone@hawk.iit.edu
     img: team02.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
-  - name: Siddharth Deshpande
+  - name: Nisarg Thakar
     position: Projects Chair
-    text: sdeshpande1@hawk.iit.edu
+    text: nthakar@hawk.iit.edu
     img: team04.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
-  - name: Syed Hamdan Sher
+  - name: Sreejita Bhattacharya
     position: Webmaster
-    text: ssher1@hawk.iit.edu
+    text: sbhattacharya3@hawk.iit.edu
     img: team04.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com     
-  - name: Brandon Dotson
+  - name: Mahendri Ramesh
     position: Secretary External
-    text: bdotson@hawk.iit.edu
+    text: mramesh3@hawk.iit.edu
     img: team04.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com 
-  - name: Manideep Penmathsa
+  - name: Deeksha Gattu
     position: Secretary Internal
-    text: mpenmat1@hawk.iit.edu
+    text: dgattu@hawk.iit.edu
     img: team04.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
-  - name: Abhishek Kumar
+  - name: Andreas Vassilakos
     position: Treasurer
-    text: akumar69@hawk.iit.edu
+    text: avassilakos@hawk.iit.edu
     img: team04.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com  
-  - name: Atul Viswanath
+  - name: Yash Lokhande
     position: Publicity Chair
-    text: a1@hawk.iit.edu
+    text: ylokhande@hawk.iit.edu
     img: team04.jpg
     social:
       - title: envelope #use for email address
